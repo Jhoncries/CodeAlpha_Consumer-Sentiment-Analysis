@@ -6,7 +6,8 @@ This project performs Sentiment Analysis and Emotion Detection on text gathered 
 - Amazon Product Reviews
 - Social Media Posts
 - News Articles
-The objective is to classify text as **Positive, Negative, or Neutral**, analyze emotional patterns, and compare sentiments across multiple platforms.
+
+: The objective is to classify text as **Positive, Negative, or Neutral**, analyze emotional patterns, and compare sentiments across multiple platforms.
 This project was developed as part of the CodeAlpha Data Analytics Internship (Task-4).
 
 🎯 Objectives :-
@@ -65,7 +66,7 @@ Train ML model using:
 
 
 👨‍💻 Developed By
--- Ayush
+- Ayush
 📧 Email: bhanuseenu914@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/ayush130
 - 🔗 GitHub: https://github.com/ayush13-0
