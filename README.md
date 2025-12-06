@@ -27,6 +27,7 @@ This project performs Sentiment Analysis and Emotion Detection using text collec
 - Amazon Product Reviews
 - Twitter (Airline Sentiment Dataset)
 - News Headlines Dataset
+
 The goal is to classify text into Positive, Neutral, or Negative, detect emotional tone, and compare public opinion patterns across multiple platforms.
 This project was developed as part of the CodeAlpha Data Analytics Internship (Task-4).
 
