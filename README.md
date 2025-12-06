@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Sentiment%20Analysis-Consumer%20MultiSource-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h1 align="center">🔍🤖 Consumer Sentiment & Emotion Analysis (Amazon + Twitter + News)</h1>
+<h1 align="center">🔍🤖 Consumer Sentiment & Emotion Analysis (Amazon+Twitter+News)</h1>
 
 <p align="center">
   <b>CodeAlpha Internship — Task 4</b>
