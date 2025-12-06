@@ -48,7 +48,8 @@ This project was developed as part of the CodeAlpha Data Analytics Internship (T
 - Rows: ~200,000
 - Columns: headline, category, short_description
 - Download (JSON/CSV): https://www.kaggle.com/datasets/rmisra/news-category-dataset
-(You can convert it into sentiment manually or use existing labels.)
+
+: (You can convert it into sentiment manually or use existing labels.)
 
 # 🎯 Objectives :-
 - Clean & preprocess text from 3 different datasets
