@@ -10,14 +10,19 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Boosting-XGBoost-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visualization-Matplotlib-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visualization-Seaborn-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-dataframe-lightgrey?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-numeric-yellow?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Boosting-XGBoost-red?style=for-the-badge&logo=xgboost" />
+  <img src="https://img.shields.io/badge/NLP-NLTK-lightblue?style=for-the-badge&logo=nltk" />
+  <img src="https://img.shields.io/badge/Sentiment-VADER-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentiment-TextBlob-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib-green?style=for-the-badge&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/Visualization-Seaborn-red?style=for-the-badge&logo=seaborn" />
+  <img src="https://img.shields.io/badge/Visualization-WordCloud-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-Web%20App-brightgreen?style=for-the-badge&logo=streamlit" />
   <img src="https://img.shields.io/badge/Status-Production%20Ready-purple?style=for-the-badge" />
 </p>
-
 ---
 
 # 📖 Overview
