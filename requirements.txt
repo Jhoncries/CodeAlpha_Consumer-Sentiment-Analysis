@@ -11,4 +11,3 @@ spacy
 beautifulsoup4
 emoji
 tqdm
-pickle-mixin
