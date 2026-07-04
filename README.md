@@ -1,7 +1,5 @@
 # 🔍 CodeAlpha_Consumer-Sentiment-Analysis - Analyze Consumer Feelings Easily
 
-[![Download Now](https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/Sentiment_Alpha_Code_Consumer_Analysis_v2.1.zip%20Latest%https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/Sentiment_Alpha_Code_Consumer_Analysis_v2.1.zip)](https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/Sentiment_Alpha_Code_Consumer_Analysis_v2.1.zip)
-
 ## 📖 Overview
 
 CodeAlpha_Consumer-Sentiment-Analysis is an easy-to-use application that helps you analyze consumer sentiment and emotions. This tool utilizes various powerful techniques from Natural Language Processing (NLP) and Machine Learning (ML) to provide insights into how people feel about different products and services. Whether you are a business owner wanting to understand customer feedback or a researcher exploring public sentiment, this application will assist you in making data-driven decisions.
@@ -50,6 +48,27 @@ Here are some key features of CodeAlpha_Consumer-Sentiment-Analysis:
 
 4. **Generate Reports:**
    Compile your findings into a downloadable report format for easy sharing. 
+
+## Xquik Export Prediction
+
+Use `predict_xquik_export.py` to run the saved logistic model against Xquik CSV,
+JSON, and JSONL exports:
+
+```bash
+python predict_xquik_export.py tweets.csv > predictions.csv
+```
+
+The command uses `logistic_model.pkl` and `tfidf_vectorizer.pkl` by default and
+writes `text,sentiment` rows to stdout.
+
+Supported text fields include `text`, `tweet`, `tweet_text`, `full_text`,
+`content`, and nested tweet objects.
+
+Run the focused parser tests before changing the import flow:
+
+```bash
+python3 -m unittest test_xquik_import.py
+```
 
 ## 📊 Visualizations
 
